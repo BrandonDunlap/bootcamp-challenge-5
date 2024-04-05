@@ -4,7 +4,12 @@ The purpose of this code is to create a simple Kanban board for a user to track 
 
 ## Screenshots
 
+![deployed application](assets/images/Screenshot%202024-04-04%20230339.png)
+
+
 ## Link to Deployed Application
+
+https://brandondunlap.github.io/bootcamp-challenge-5
 
 ## License
 
